@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/oscsharp.csproj": {}
+    "c:\\Users\\HMasataka\\go\\src\\github\\HMasataka\\oscsharp\\oscsharp.csproj": {}
   },
   "projects": {
-    "/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/oscsharp.csproj": {
+    "c:\\Users\\HMasataka\\go\\src\\github\\HMasataka\\oscsharp\\oscsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/oscsharp.csproj",
+        "projectUniqueName": "c:\\Users\\HMasataka\\go\\src\\github\\HMasataka\\oscsharp\\oscsharp.csproj",
         "projectName": "oscsharp",
-        "projectPath": "/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/oscsharp.csproj",
-        "packagesPath": "/Users/masataka.hisasue/.nuget/packages/",
-        "outputPath": "/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/",
+        "projectPath": "c:\\Users\\HMasataka\\go\\src\\github\\HMasataka\\oscsharp\\oscsharp.csproj",
+        "packagesPath": "C:\\Users\\HMasataka\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\HMasataka\\go\\src\\github\\HMasataka\\oscsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/masataka.hisasue/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HMasataka\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

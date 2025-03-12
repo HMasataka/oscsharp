@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "z4CBSpjDOFk=",
+  "dgSpecHash": "1zRpWUEwiXI=",
   "success": true,
-  "projectFilePath": "/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/oscsharp.csproj",
+  "projectFilePath": "c:\\Users\\HMasataka\\go\\src\\github\\HMasataka\\oscsharp\\oscsharp.csproj",
   "expectedPackageFiles": [
-    "/Users/masataka.hisasue/.nuget/packages/rug.osc/1.2.5/rug.osc.1.2.5.nupkg.sha512"
+    "C:\\Users\\HMasataka\\.nuget\\packages\\rug.osc\\1.2.5\\rug.osc.1.2.5.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "パッケージ 'Rug.Osc 1.2.5' はプロジェクトのターゲット フレームワーク 'net9.0' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
+      "message": "Package 'Rug.Osc 1.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
       "libraryId": "Rug.Osc",
       "targetGraphs": [
         "net9.0"
