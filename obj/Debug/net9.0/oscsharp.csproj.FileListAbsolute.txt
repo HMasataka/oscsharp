@@ -12,3 +12,6 @@
 /Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.pdb
 /Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.genruntimeconfig.cache
 /Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/ref/oscsharp.dll
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.csproj.AssemblyReference.cache
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.csproj.Up2Date
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/bin/Debug/net9.0/Rug.Osc.dll

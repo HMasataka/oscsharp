@@ -44,9 +44,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "OscCore": {
+            "Rug.Osc": {
               "target": "Package",
-              "version": "[1.0.5, )"
+              "version": "[1.2.5, )"
             }
           },
           "imports": [
