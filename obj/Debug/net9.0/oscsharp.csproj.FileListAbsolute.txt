@@ -1,0 +1,14 @@
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/bin/Debug/net9.0/oscsharp
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/bin/Debug/net9.0/oscsharp.deps.json
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/bin/Debug/net9.0/oscsharp.runtimeconfig.json
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/bin/Debug/net9.0/oscsharp.dll
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/bin/Debug/net9.0/oscsharp.pdb
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.AssemblyInfoInputs.cache
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.AssemblyInfo.cs
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.csproj.CoreCompileInputs.cache
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.dll
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/refint/oscsharp.dll
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.pdb
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/oscsharp.genruntimeconfig.cache
+/Users/masataka.hisasue/go/src/github.com/HMasataka/oscsharp/obj/Debug/net9.0/ref/oscsharp.dll
